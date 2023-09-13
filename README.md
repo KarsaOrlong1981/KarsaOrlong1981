@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarsaOrlong1981
-- 👀 I’m interested in C#, Xamarin.Forms, Android
+- 👀 I’m interested in C#, Xamarin.Forms and .net Maui
 - 🌱 I’m working as Software-Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me j1981thomas@gmail.com...
